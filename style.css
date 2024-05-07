@@ -68,8 +68,8 @@
 }
 .pipe_sprite img {
     display: block;
-    width: 130px; /* Set the width of the image to match its visible area */
-    height: 100px; /* Set the height of the image to match its visible area */
+    width: 130px;
+    height: 100px; 
 }
 
 @media only screen and (max-width: 1080px) {
