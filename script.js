@@ -114,7 +114,7 @@ function play() {
                     alternateImage.alt = 'Alternate Image';
                     alternateImage.classList.add('alternate-image');
                     message.appendChild(alternateImage);
-                  
+                    pauseBackgroundAudio();
                     sound_die.currentTime = 5; 
                     sound_die.play();
                     pauseBackgroundAudio();
