@@ -62,8 +62,8 @@ function adjustSizeAndSpeed() {
     let viewportWidth = window.innerWidth;
 
     if (viewportWidth > 1080) {
-        bird.style.width = '250px';
-        bird.style.height = '210px';
+        bird.style.width = '180px';
+        bird.style.height = '150px';
     } else {
         bird.style.width = '130px';
         bird.style.height = '100px';
