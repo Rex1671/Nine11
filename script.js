@@ -71,7 +71,7 @@ function adjustSizeAndSpeed() {
 
     
     if (viewportWidth > 1080) {
-        move_speed = 60;
+        move_speed = 10;
     } else {
         move_speed = 3;
     }
